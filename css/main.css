@@ -56,11 +56,11 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 .site {
-  font-size: 100%;
+  font-size: 115%;
   text-align: justify;
   width: 42em;
-  margin: 0.5em ;
-  
+  margin: 0em auto 0em;
+  line-height: 0em;
 }
 
 .header a {
