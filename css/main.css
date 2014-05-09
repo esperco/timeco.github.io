@@ -46,8 +46,8 @@ a:visited { color: #a0a; }
 
 .posts span {
   color: #FFFFFF;
-  font-family: verdana, "Courier New", monospace;
-  font-size: 70%;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
 }
 
 /*****************************************************************************/
@@ -57,11 +57,13 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
+  font-size: 90%;
   text-align: justify;
   width: 42em;
   margin: 1em auto 0em;
-  line-height: 1em;a
+  line-height: 1em;
+  background-color: #FFFFFF;
+  font: verdana;
 }
 
 .header a {
