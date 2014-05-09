@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #D9D9D9;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font: 12px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -45,9 +45,9 @@ a:visited { color: #a0a; }
 }
 
 .posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  color: #FFFFFF;
+  font-family: verdana, "Courier New", monospace;
+  font-size: 70%;
 }
 
 /*****************************************************************************/
